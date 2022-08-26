@@ -1,2 +1,1 @@
-# BrainyQuote
-Created with CodeSandbox
+# QuoteBook
