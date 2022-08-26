@@ -1,21 +1,3 @@
-// console.log("I'm here as js")
-
-// for loops
-// string interpolation
-// if/else
-
-
-// data types
-// data Structures
-// create a data structure of our quotes
-    // What properties
-// Iterate over the quotes
-// Add a conditional
-// Can we break this up?
-    // Data Structure Relationship
-
-// get string, int, booean, null, undefined into working vacabulary
-// get array, object into working vocabulary
 
     const quotes = [
         {
