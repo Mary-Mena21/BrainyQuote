@@ -21,5 +21,5 @@ let prayers = [
 ];
 
 export const prayersCopy = () => {
-  return prayers.map((pray) => ({ ...prayers }));
+  return prayers.map((pray) => ({ ...pray }));
 };
